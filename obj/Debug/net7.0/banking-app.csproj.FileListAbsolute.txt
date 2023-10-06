@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/banking-app/obj/Debug/net7.0/banking-app.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/banking-app/obj/Debug/net7.0/banking-app.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/banking-app/obj/Debug/net7.0/banking-app.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/banking-app/obj/Debug/net7.0/banking-app.AssemblyInfo.cs
+/workspaces/codespaces-blank/banking-app/obj/Debug/net7.0/banking-app.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/banking-app/bin/Debug/net7.0/banking-app
+/workspaces/codespaces-blank/banking-app/bin/Debug/net7.0/banking-app.deps.json
+/workspaces/codespaces-blank/banking-app/bin/Debug/net7.0/banking-app.runtimeconfig.json
+/workspaces/codespaces-blank/banking-app/bin/Debug/net7.0/banking-app.dll
+/workspaces/codespaces-blank/banking-app/bin/Debug/net7.0/banking-app.pdb
+/workspaces/codespaces-blank/banking-app/obj/Debug/net7.0/banking-app.dll
+/workspaces/codespaces-blank/banking-app/obj/Debug/net7.0/refint/banking-app.dll
+/workspaces/codespaces-blank/banking-app/obj/Debug/net7.0/banking-app.pdb
+/workspaces/codespaces-blank/banking-app/obj/Debug/net7.0/banking-app.genruntimeconfig.cache
+/workspaces/codespaces-blank/banking-app/obj/Debug/net7.0/ref/banking-app.dll
